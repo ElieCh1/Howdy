@@ -14,11 +14,11 @@ Howdy! is a Windows desktop app for managing Roblox accounts with premium licens
 * Network profile support
 * Account setup helper
 * Portable Windows release
-* & more!
+* And more!
 
 ## Download
 
-Download the latest version from the Releases section.
+Download the latest version from the [Releases page](https://github.com/ElieCh1/Howdy/releases/tag/v1.0.0).
 
 ## Notice
 
